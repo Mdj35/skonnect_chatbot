@@ -1,0 +1,8 @@
+Flask
+flask-cors
+pandas
+numpy
+tensorflow-cpu
+scikit-learn
+sentence_transformers
+mysql-connector-python  
