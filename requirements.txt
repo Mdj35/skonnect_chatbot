@@ -6,3 +6,4 @@ tensorflow-cpu
 scikit-learn
 sentence_transformers
 mysql-connector-python  
+gunicorn
